@@ -1,2 +1,5 @@
-# formatter-for-yibaocunju-yu-minzhengdimingquhua-duizhao
-将政府公共数据开放网的医保村居与民政地名区划对照的JSON文件格式化为清晰的区街道社区三级YAML文件
+# 「医保村居与民政区划对照」格式化脚本
+
+将「政府公共数据开放网」提供的「医保村居与民政地名区划对照」的混乱的 JSON 文件格式化为清晰的 区/县级市 街道/乡镇 社区/村 三级的 YAML 文件
+
+由 Gemini-3.0-Pro 生成

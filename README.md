@@ -2,4 +2,13 @@
 
 将「政府公共数据开放网」提供的「医保村居与民政地名区划对照」的混乱的 JSON 文件格式化为清晰的 区/县级市 街道/乡镇 社区/村 三级的 YAML 文件
 
+**使用方法：**
+
+- 下载 `convert.py` 脚本；
+- 使用 PyPI 安装 `pyyaml` 包；
+- 将输入 JSON 文件放在同目录下的 `input.json`；
+- 去除该 JSON 文件第一行的表头以使其符合 JSON 标准；
+- 在同目录下执行 `python3 convert.py`；
+- 同目录下生成的 `output.yaml` 为最终文件
+
 由 Gemini-3.0-Pro 生成

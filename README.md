@@ -9,6 +9,8 @@
 - 将输入 JSON 文件放在同目录下的 `input.json`；
 - 去除该 JSON 文件第一行的表头以使其符合 JSON 标准；
 - 在同目录下执行 `python3 convert.py`；
-- 同目录下生成的 `output.yaml` 为最终文件
+- 同目录下生成的 `output.yaml` 为最终文件；
+
+PS: 本仓库的 `input.json` 为示例输入文件，以「公共数据开放平台数据使用许可」提供。
 
 由 Gemini-3.0-Pro 生成

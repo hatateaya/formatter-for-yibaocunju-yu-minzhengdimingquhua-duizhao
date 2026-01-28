@@ -1,0 +1,2 @@
+# formatter-for-yibaocunju-yu-minzhengdimingquhua-duizhao
+将政府公共数据开放网的医保村居与民政地名区划对照的JSON文件格式化为清晰的区街道社区三级YAML文件
